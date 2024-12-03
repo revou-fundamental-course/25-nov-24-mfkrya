@@ -222,10 +222,3 @@ const regenerateBMI = () => {
   document.getElementById("result").classList.add("d-hidden");
   document.getElementById("form").scrollIntoView({ behavior: "smooth" });
 };
-
-/**
- * Sumber:
- * Resiko Penyakit Kekurangan Berat Badan: https://www.alodokter.com/faktor-penyebab-badan-kurus-dan-tips-sehat-untuk-mengatasinya/ Diakses pada 03 Desember 2024
- * Resiko Penyakit Kelebihan Berat Badan: https://health.detik.com/diet/d-4771038/7-penyakit-ini-bersembunyi-di-balik-berat-badan-berlebih/ Diakses pada 03 Desember 2024
- * Resiko Penyakit Obesitas: https://www.halodoc.com/kesehatan/obesitas/  Diakses pada 03 Dessember 2024
- */
